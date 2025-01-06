@@ -1,0 +1,16 @@
+id,name,preferences
+1,John Doe,{"specialization": "Oncologist", "location": "Lagos"}
+2,Jane Smith,{"specialization": "Dentist", "location": "Abuja"}
+3,Emeka Obi,{"specialization": "Pediatrician", "location": "Lagos"}
+4,Chioma Okeke,{"specialization": "Cardiologist", "location": "Kano"}
+5,Oluwaseun Adebayo,{"specialization": "Dermatologist", "location": "Enugu"}
+6,Yusuf Garba,{"specialization": "Neurologist", "location": "Port Harcourt"}
+7,Adetola Ayodele,{"specialization": "Orthopedic", "location": "Lagos"}
+8,Chinwe Nwosu,{"specialization": "Ophthalmologist", "location": "Abuja"}
+9,Abdul Malik,{"specialization": "Gastroenterologist", "location": "Kano"}
+10,Ndidi Okafor,{"specialization": "General Practitioner", "location": "Port Harcourt"}
+11,Folake Ogunleye,{"specialization": "Pulmonologist", "location": "Enugu"}
+12,Chukwudi Nwankwo,{"specialization": "Urologist", "location": "Lagos"}
+13,Halima Bala,{"specialization": "Endocrinologist", "location": "Kano"}
+14,Obinna Eze,{"specialization": "Rheumatologist", "location": "Abuja"}
+15,Ifunanya Onyekachi,{"specialization": "Nephrologist", "location": "Enugu"}
