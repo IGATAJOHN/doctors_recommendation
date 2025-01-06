@@ -33,7 +33,7 @@ quantum-doctor/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/doctor-recommendation-system.git
+   git clone https://github.com/IGATAJOHN/doctor-recommendation-system.git
    cd doctor-recommendation-system
    ```
 
