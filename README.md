@@ -8,11 +8,12 @@ This project is a doctor recommendation system built using Flask for the backend
 ## Project Structure
 
 ```
-myproject/
+
 ├── app.py
 ├── data/
 │   ├── doctors.csv
 │   ├── interactions.csv
+|   |-- users.csv
 ├── models/
 │   └── recommendation_model.pkl
 ├── templates/
